@@ -1,2 +1,2 @@
 # steam-scrape
-This code will scrape the daily game deals from Steam and output sale info in a spreadsheet. I run this with Windows Task Scheduler to run daily automatically.
+Steam Scrape is a web scraper script for parsing through the discounted section of steam. Results are then added to a spreadsheet file. The script is intended to run daily.
